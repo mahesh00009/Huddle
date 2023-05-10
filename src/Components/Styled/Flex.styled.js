@@ -14,6 +14,4 @@ flex-direction:column;
     align-items:center;
 }
 
-
-
 `
