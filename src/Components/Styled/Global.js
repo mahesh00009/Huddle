@@ -1,4 +1,4 @@
-import { createGlobalStyle, styled } from "styled-components";
+import { createGlobalStyle } from "styled-components";
 
 const GlobalStyles = createGlobalStyle`
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Poppins:wght@300;400&family=Quicksand:wght@600&display=swap');
